@@ -1,6 +1,6 @@
 <div align="center">
 
-# Studio Tast
+<img src="https://cdn.prod.website-files.com/62c4205ea52d5153a11327a4/6304fa72548e6b72f4e2c8a5_Studio%20Tast%20logo%201%20line.svg" alt="Studio Tast" width="400" style="background-color: white; padding: 20px; border-radius: 10px;">
 
 ### _Learning through experience_
 
