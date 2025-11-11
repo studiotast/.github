@@ -4,9 +4,9 @@
 
 ### _Learning through experience_
 
-[![Website](https://img.shields.io/badge/studiotast.nl-36b393?style=flat-square&logo=safari&logoColor=white)](https://studiotast.nl)
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn%20Learning-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/studiotast/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/studiotast/)
+[![Website](https://img.shields.io/badge/studiotast.nl-36b393?&logo=safari&logoColor=white)](https://studiotast.nl)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/company/studiotast/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/studiotast/)
 
 </div>
 
