@@ -1,7 +1,6 @@
 <div align="center">
 
-[![Studio Tast](./logo_black.svg#gh-light-mode-only)](https://studiotast.nl)
-[![Studio Tast](./logo_white.svg#gh-dark-mode-only)](https://studiotast.nl)
+<img src="https://assets.studiotast.com/sig2022/logo.png" alt="Studio Tast" width="450">
 
 ### _Learning through experience_
 
