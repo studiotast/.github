@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="./logo_white.svg" alt="Studio Tast" width="400">
+[![Studio Tast](./logo_black.svg#gh-light-mode-only)](https://studiotast.nl)
+[![Studio Tast](./logo_white.svg#gh-dark-mode-only)](https://studiotast.nl)
 
 ### _Learning through experience_
 
